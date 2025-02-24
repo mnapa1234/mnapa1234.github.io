@@ -1,0 +1,1 @@
+This is a data science and machine learning project for the Introduction to Data Science class at the University of Maryland (CMSC320) that performs vehicular crash analysis. Worked on by Monish Napa and Prateek Akula.
